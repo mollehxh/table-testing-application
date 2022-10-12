@@ -11,7 +11,7 @@ export const CarFlters = ({ columns }: CarFltersProps) => {
   const setFilterValue = useAction(carFiltersModel.actions.setFilterValue);
 
   return (
-    <div className='mb-6 flex gap-3'>
+    <div className='mb-6 flex gap-3 flex-col sm:flex-row'>
       <select
         onChange={(evt) => {
           setFilterColumn(evt.currentTarget.value);

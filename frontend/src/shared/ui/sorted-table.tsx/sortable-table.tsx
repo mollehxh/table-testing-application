@@ -36,7 +36,7 @@ export const SortableTable = ({
 
   return (
     <>
-      <div className='w-full rounded-lg shadow overflow-hidden'>
+      <div className='w-full rounded-lg shadow overflow-auto'>
         <table className='w-full '>
           <thead className='bg-gray-50 border-b-2 border-gray-200'>
             <tr>

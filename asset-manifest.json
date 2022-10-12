@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/table-testing-application/static/css/main.9594ece9.css",
+    "main.js": "/table-testing-application/static/js/main.7f456c07.js",
+    "index.html": "/table-testing-application/index.html",
+    "main.9594ece9.css.map": "/table-testing-application/static/css/main.9594ece9.css.map",
+    "main.7f456c07.js.map": "/table-testing-application/static/js/main.7f456c07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9594ece9.css",
+    "static/js/main.7f456c07.js"
+  ]
+}

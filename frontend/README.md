@@ -1,4 +1,4 @@
-Test task - **Table with filters and sorting**
+**Table with filters and sorting**
 
 [Demo](https://mollehxh.github.io/table-testing-application/)
 
